@@ -1,0 +1,24 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Neymar"
+    },
+    {
+      "id": 2,
+      "name": "Messi"
+    },
+    {
+      "name": "Rafael",
+      "id": 3
+    },
+    {
+      "name": "Endrick",
+      "id": 4
+    },
+    {
+      "name": "Nilmar",
+      "id": 5
+    }
+  ]
+}
